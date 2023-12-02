@@ -878,10 +878,10 @@ button {
 		padding: 0;
 	}
 
-	.home {
+	/* .home {
 		min-height: 100vh;
 		height: 100%;
-	}
+	} */
 
 	.home-text,
 	.home-img {
